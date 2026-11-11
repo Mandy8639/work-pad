@@ -43,7 +43,7 @@ Use **Switch teammate** in the library to sign out and enter as someone else.
 - Import `.txt`, `.md`, or `.docx` up to 2 MB. The file becomes a new document. Inside an editor you can also replace the current draft with a file. Images and complex Word layout are dropped.
 - Share from the document. The owner chooses **Can edit** or **Can view**, or removes someone. Editors cannot change access. Viewers cannot type.
 
-A two-minute walkthrough of this flow is in [docs/walkthrough.mp4](docs/walkthrough.mp4). See [WALKTHROUGH.txt](WALKTHROUGH.txt).
+A narrated walkthrough, about three minutes and forty-five seconds, is in [docs/walkthrough.mp4](docs/walkthrough.mp4). See [WALKTHROUGH.txt](WALKTHROUGH.txt).
 
 ## Tests
 

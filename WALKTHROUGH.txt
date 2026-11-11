@@ -1,19 +1,22 @@
 Walkthrough
 
-Length: 2 minutes 4 seconds.
+Length: 3 minutes 45 seconds.
 File: docs/walkthrough.mp4
 
-This environment cannot upload to Loom or YouTube, so there is no hosted video URL. The file above is the walkthrough.
+This environment cannot upload to Loom or YouTube, so there is no hosted video URL. The file above is the walkthrough. It has a spoken narration.
 
-The recording shows the working product:
+The recording shows, and the voice explains:
 
-- Sign in as Maya Chen, with no password
-- Owned documents and documents shared with her, distinguished in the library
-- Bold text that is still bold after a reload
-- Renaming the document
-- The share dialog: Maya owns it, Leo can edit, Sam can view
-- Importing samples/field-notes.md into a new document, with the heading and list kept
-- Sam Okonkwo opening that document as a viewer, with no formatting toolbar
-- Leo Park opening Launch notes with the formatting toolbar
+- Sign in as Maya Chen. There is no password. Leo and Sam are the other teammates.
+- Owned documents have a teal edge. Shared documents have a clay edge.
+- Bold, italic, underline, headings, and lists in the editor.
+- A new sentence, with one word in bold, and a save.
+- The sentence remaining after a reload, with the bold word still stored on the document.
+- Renaming the document from the title.
+- The share dialog: Maya owns it, Leo can edit, Sam can view.
+- Importing a Markdown file. The heading, emphasis, and list become a draft.
+- Sam opening the same document as a viewer, with no toolbar.
+- What was left out on purpose: live cursors, comments, and a full version history.
+- The save conflict check, and how Cursor's coding agent was used.
 
-The recording has no voiceover. The scope cuts and the AI workflow are written in ARCHITECTURE.md and AI_WORKFLOW.md.
+The same choices are written in ARCHITECTURE.md and AI_WORKFLOW.md.

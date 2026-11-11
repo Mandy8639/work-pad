@@ -23,6 +23,6 @@ That compressed the mechanical parts: project setup, repetitive query mapping, a
 - `npm test` covers permissions, sanitizing, `.txt` / `.md` / `.docx` import, library separation, sharing, and the version conflict.
 - `npm run lint` and `tsc --noEmit` were run on the app.
 - The running app was clicked through in a browser: sign in, edit and format, reload, import, share, and open the same document as another teammate.
-- A walkthrough recording covers that path. The recording is a file in this project, not a Loom upload, because this environment cannot publish to Loom or YouTube.
+- A narrated walkthrough in docs/walkthrough.mp4 covers that path. It is a file in this project, not a Loom upload, because this environment cannot publish to Loom or YouTube.
 
 The agent accelerated typing. The scope, the access rules, and the decision to stop at conflict detection instead of live collaboration were reviewed against the assignment rather than taken from the first generated plan.
