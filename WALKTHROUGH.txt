@@ -1,0 +1,19 @@
+Walkthrough
+
+Length: 2 minutes 4 seconds.
+File: docs/walkthrough.mp4
+
+This environment cannot upload to Loom or YouTube, so there is no hosted video URL. The file above is the walkthrough.
+
+The recording shows the working product:
+
+- Sign in as Maya Chen, with no password
+- Owned documents and documents shared with her, distinguished in the library
+- Bold text that is still bold after a reload
+- Renaming the document
+- The share dialog: Maya owns it, Leo can edit, Sam can view
+- Importing samples/field-notes.md into a new document, with the heading and list kept
+- Sam Okonkwo opening that document as a viewer, with no formatting toolbar
+- Leo Park opening Launch notes with the formatting toolbar
+
+The recording has no voiceover. The scope cuts and the AI workflow are written in ARCHITECTURE.md and AI_WORKFLOW.md.
