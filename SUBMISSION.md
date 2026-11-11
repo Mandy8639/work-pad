@@ -28,7 +28,9 @@ No passwords.
 
 ## Walkthrough
 
-See [WALKTHROUGH.txt](WALKTHROUGH.txt). The recording was made in this environment. A Loom or YouTube URL was not available to publish from here.
+Public page: https://qu.ax/aLdfb
+
+The recording is 3 minutes 45 seconds, with narration. The same file is [docs/walkthrough.mp4](docs/walkthrough.mp4). A Loom or YouTube upload was not available from this environment. See [WALKTHROUGH.txt](WALKTHROUGH.txt).
 
 ## Working
 
@@ -47,7 +49,7 @@ See [WALKTHROUGH.txt](WALKTHROUGH.txt). The recording was made in this environme
 - No PDF or Markdown export
 - No image upload inside a document
 - Word import keeps text structure, not the original layout
-- The walkthrough is a video file, not a hosted unlisted link
+- The walkthrough is hosted on a public file page, not an unlisted Loom or YouTube link
 - A Google Drive folder was not created from this environment. Upload this repository’s files there if the course portal requires that link.
 
 ## Next, with a few more hours

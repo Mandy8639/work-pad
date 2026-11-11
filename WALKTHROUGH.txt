@@ -3,7 +3,10 @@ Walkthrough
 Length: 3 minutes 45 seconds.
 File: docs/walkthrough.mp4
 
-This environment cannot upload to Loom or YouTube, so there is no hosted video URL. The file above is the walkthrough. It has a spoken narration.
+Public page (plays in a browser, available through December 11, 2026): https://qu.ax/aLdfb
+Direct file page (available through November 18, 2026): https://filebin.net/folio-ajaia/walkthrough.mp4
+
+This environment cannot upload to Loom, YouTube, Vimeo, or Google Drive. Paste the public page above into the video field. The file in this repository is the same recording. It has a spoken narration.
 
 The recording shows, and the voice explains:
 
